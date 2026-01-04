@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
 
-<!--
-**aa-r-yn/aa-r-yn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor of Artificial Intelligence student at UTS, interested in Applied AI, Computer Vision, and Robotics.
 
-Here are some ideas to get you started:
+##🚁 Featured Project
+AutoLZ (Autonomous Landing Zone) — a team project where we trained a YOLOv5 model from scratch to detect a landing pad and help a programmable drone land autonomously in controlled environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🧰 Tech I use
+- Python
+- PyTorch, OpenCV
+- Computer Vision, Object Detection (YOLO)
+- Model training, dataset collection & augmentation
+
+##🎯 Currently focused on
+- Building a strong AI portfolio on GitHub
+- Practical ML/DL projects with clear documentation & results
